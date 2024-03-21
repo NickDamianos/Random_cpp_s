@@ -6,7 +6,7 @@
 
 /* 
  * File:   integral.cpp
- * Author: 855
+ * Author: Nikolaos Damianos
  *
  * Created on 8 Σεπτεμβρίου 2016, 3:55 μμ
  */
